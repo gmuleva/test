@@ -1,12 +1,11 @@
 {
-  "name": "ci",
+  "name": "ci-project",
   "version": "1.0.0",
+  "description": "Simple CI project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"CI pipeline running successfully\""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "author": "gourav",
+  "license": "ISC"
 }
